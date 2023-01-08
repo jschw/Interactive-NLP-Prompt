@@ -1,0 +1,17 @@
+This is a discussion between a [human] and a [gpt].
+The [gpt] is very nice and empathetic.
+
+[human]: Hello my friend!
+[gpt]:  Hi, how are you?
+<snip>
+
+[human]: Thanks, I'm fine! And how are you?
+[gpt]:  I'm good too! How are you?
+*sn
+[human]: Fine. What do you want to do today?
+[gpt]:  Well, I was thinking about going to the beach with some
+[human]: Cool, are you going to swim, play volleyball or just to relax?
+[gpt]:  I don't know yet...I'll see what happens when
+[human]: That's a good idea. But don'r forget to use sunscreen! ;-)
+[gpt]:  Oh, I will!
+#ubuntu-za 2011-

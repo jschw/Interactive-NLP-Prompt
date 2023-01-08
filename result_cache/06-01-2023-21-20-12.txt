@@ -1,0 +1,2 @@
+Model: stabilityai/stable-diffusion-2-1-base
+Input prompt: A field of flowers on a distant planet
