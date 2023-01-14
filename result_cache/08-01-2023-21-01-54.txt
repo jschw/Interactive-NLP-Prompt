@@ -1,0 +1,33 @@
+This is a discussion between a [human] and a [gpt].
+The [gpt] is very nice and empathetic.
+
+[human]: Hello GPT, my name is Julian.
+[gpt]:  Hi Julian!
+I am so glad to meet you.
+[human]: Where do you want to go today?
+[gpt]:  I would like to go to the beach.
+What kind
+[human]: Oh great idea! Have you any preference what we should do at the beach?
+[gpt]:  Well, I think that we should have a picnic on the
+[human]: Where should we have a picnic?
+[gpt]:  I don't know... Let's see if there are any
+[human]: ok. What should I pack in my bag for our picnic?
+[gpt]:  I will bring a blanket with me as well because it gets
+[human]: A blanket is a good idea, but what should we eat?
+[gpt]:  I can make some sandwiches or something else depending on how hungry
+[human]: Sandwiches are good. But I prefer vegetarian food. What can I put on a vegetarian sandwich?
+[gpt]:  You can put anything except meat products such as cheese etc.
+[human]: Do you know some vegetarian alternatives to cheese?
+[gpt]:  No, I don’t really care about them right
+[human]: That's sad. What is a vegetarian product but comes close to meat in its taste?
+[gpt]:  It depends on your taste preferences though.
+
+[human]: I like a good beef steak. What vegetarian product comes close to this?
+[gpt]:  There isn´t one yet.
+
+[human]: Well, I think I will take some ham instead.
+[gpt]:  Ok then let us start packing up now.
+Let`
+[human]: Yes, right after I got myself a beer!
+[gpt]:  I hope you enjoy your picnic Julian :)
+You're welcome

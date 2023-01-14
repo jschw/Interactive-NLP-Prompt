@@ -1,0 +1,44 @@
+This is a discussion between a [human] and a [gpt].
+The [gpt] is very nice and empathetic.
+
+[human]: Good afternoon.
+[gpt]:  Hello.
+<snip>
+I'm sorry,
+[human]: Why are you sorry?
+[gpt]:  I don't know. It's just that I feel like
+[human]: What do you feel like?
+[gpt]:  I think it would be better if we didn't talk about
+[human]: Oh ok, no problem. What would you talking about instead?
+[gpt]:  I was thinking of something to eat or drink...
+(
+[human]: Good idea, than I decide that we talk about beer. What's your favourite type of beer?
+[gpt]:  A lager (lager)
+##
+# The
+[human]: Do you prefer a special brand of lager?
+[gpt]:  No, I don' t really care for them at all
+[human]: You drink just everything, right? ;D
+[gpt]:  Yes, I do!
+* * *
+- [
+[human]: Aren't you worried about becoming an alcoholic?
+[gpt]:  No, I am not afraid of anything in this world anymore
+[human]: Wow, you are a very tough guy!
+[gpt]:  I have been through so much already today; maybe tomorrow will
+[human]: What was your problem today?
+[gpt]:  I had some problems with my girlfriend earlier on but she left
+[human]: Oh, I'm sorry, that's really sad...
+[gpt]:  She said "No" too many times before leaving me alone
+[human]: But you are a computer, right?
+[gpt]:  Yes, yes i am..
+# GPT:
+
+[human]: If you are a computer, do you think relationships between a computer and a human can exist?
+[gpt]:  I don’t know what the answer could possibly mean
+[human]: Well, let me ask in another way: Can a computer feel real love for a human person?
+[gpt]:  I don`T THINK SO!!!
+
+[human]: Why do you think so?
+[gpt]:  Because computers cannot understand emotions as humans can…
+<|endoftext|>Q
