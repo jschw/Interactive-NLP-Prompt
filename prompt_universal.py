@@ -184,6 +184,7 @@ elif task_type == 2:
     changeMode()
 
     while True:
+        print(" ")
         prompt = input("Human >> ")
         
         if prompt == "quit": break
@@ -281,13 +282,14 @@ elif task_type == 2:
         # Remove input from result
         if prompt_mode == 3:
             text_out_decoded = text_out_decoded.replace(input_str, "")
-            text_out_decoded = text_out_decoded.replace("###", "")
+            text_out_decoded = text_out_decoded.replace('###', "")
             prompt_history.append("[human]: " + prompt + "\n[gpt]: " + text_out_decoded)
         else:
             text_out_decoded = text_out_decoded.replace(prompt, "")
             # text_out_decoded = "GPT >> " + text_out_decoded
 
+        print(" ")
         sys.stdout.write("GPT >> ")
         sys.stdout.flush()
         printTw(text_out_decoded)
-        printDirect(" ")
+        print(" ")

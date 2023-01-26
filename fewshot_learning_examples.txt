@@ -1,0 +1,37 @@
+Intent recognition:
+--------------------
+
+
+I want to make a cake. Which one should I bake?\n[intent]: recommendation cake\n###\nCan you tell me please where I can buy some food?\n[intent]: Search supermarket\n###\nWhat is a GPU?\n[intent]: Search web for GPU\n###\nI need a screwdriver and some nails.\n
+
+
+I want to make a cake. Which one should I bake?\n[intent]: recommendation cake\n###\nCan you tell me please where I can buy some food?\n[intent]: Search supermarket\n###\nWhat is a GPU?\n[intent]: Search web for GPU\n###\nCan you write me a summary of Wilhelm Tell?\n
+
+
+I want to make a cake. Which one should I bake?\n[intent]: recommendation cake\n###\nCan you tell me please where I can buy some food?\n[intent]: Search supermarket\n###\nWhat is a GPU?\n[intent]: Search web for GPU\n###\nI want to go to the cinema but I don't know which movie I should watch.\n
+
+
+
+
+Summarize with keywords and get a search string:
+------------------------------------------------
+
+
+What is a GPU?\n[keywords]: hardware, computer, explanation\n[searchstring]: Explanation GPU\n###\nI want to make a cake. Which one should I bake?\n[keywords]: baking, cake, recommendation\n[searchstring]: List of most popular cakes\n###\nCan you tell me please where I can buy some food?\n[keywords]: food, supermarket, search\n[searchstring]: Nearest supermarkets\n###\nI want to make a cocktail but don't know which one.\n
+
+
+What is a GPU?\n[keywords]: hardware, computer, explanation\n[searchstring]: Explanation GPU\n###\nI want to make a cake. Which one should I bake?\n[keywords]: baking, cake, recommendation\n[searchstring]: List of most popular cakes\n###\nCan you tell me please where I can buy some food?\n[keywords]: food, supermarket, search\n[searchstring]: Nearest supermarkets\n###\nI fell down the stairs and now my back hurts. What should I do?\n
+
+
+
+
+Python programming:
+--------------------
+
+
+Python script that print out the variable test\n[code]: print(test)\n###\nPython script that creates the array test_array with the three numbers 1, 2 and 3.\n[code]: test_array = [1, 2, 3]\n###\nPython script that prints out all the lines in the text file test.txt\n
+
+
+Python script that print out the variable test\n[code]: print(test)\n###\nPython script that creates the array test_array with the three numbers 1, 2 and 3.\n[code]: test_array = [1, 2, 3]\n###\nPython script that reads the XML file test.xml and parse all keys\n
+
+
